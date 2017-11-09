@@ -1,0 +1,1 @@
+Use Javascript and JQuery to create a square grid that changes color on mouseover.
